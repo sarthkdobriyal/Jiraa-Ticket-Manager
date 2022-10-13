@@ -1,5 +1,5 @@
 # Jiraa Ticket Management tool
-image.png
+
 
 Jiraa is ticket management tool that helps in storing tickets which can be priroitized using color codes and help in fixing bugs and errors by listing them down using tickets
 
